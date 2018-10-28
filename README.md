@@ -88,7 +88,7 @@ Here are our six core certifications:
 
 #### 6. Information Security and Quality Assurance Certification
 
-- Information Security with HelmetJS
+- Information Security with Helmet.js
 - Quality Assurance and Testing with Chai
 - Advanced Node and Express <br />
   <br />
